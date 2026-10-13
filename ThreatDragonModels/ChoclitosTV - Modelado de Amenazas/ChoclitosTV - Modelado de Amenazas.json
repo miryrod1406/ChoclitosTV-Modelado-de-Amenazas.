@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-10-13",
+  "summary": {
+    "title": "ChoclitosTV - Modelado de Amenazas",
+    "owner": "Miryam Rodríguez Asensio",
+    "description": "Modelado de amenazas de la plataforma de streaming ChoclitosTV. Análisis de la arquitectura en cuatro capas: DMZ, aplicación, datos y administración. Identificación de entidades externas, procesos, almacenes de datos, flujos de información y fronteras de confianza para el análisis STRIDE y la evaluación de riesgos.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Dirección de Tecnología y Seguridad",
+    "threatTop": 0
+  }
+}
